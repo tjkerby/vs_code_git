@@ -43,6 +43,8 @@ Rendered: *italics*, **bold**, ***bold and italics***, ~~strikethrough~~
 
 ---
 
+## Background
+
 ## Paragraphs & line breaks
 
 - Blank line = new paragraph.
@@ -138,6 +140,7 @@ See the [docs][docs-link] for details.
 **Relative links (within your repo):**
 
 [Contributing](CONTRIBUTING.md)
+[Background](#background)
 [Images](docs/images/)
 
 
